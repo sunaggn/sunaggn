@@ -1,26 +1,56 @@
-# Welcome to My GitHub Profile! 👋
+👋 Hi, I’m Elif Suna Gegin
 
-Hi! I'm Elif Suna Gegin, a 3rd year Computer Engineering student who loves exploring technology and learning new things. On my profile, you'll find projects and resources that showcase what I've been working on, including microprocessor programming, cloud computing, database management, and data science.
----
-## About Me
+I am a 4th year Computer Engineering student with a strong interest in machine learning, data-driven modeling, and applied AI research. My work focuses on building and analyzing models using real-world data, with particular attention to model behavior, evaluation, and representation learning.
 
-- 🌱 **Currently Learning:** MongoDB, cloud technologies, data tools, and diving into the world of AI.
-- 💻 **Tools & Platforms:** GNUSim8085, PyCharm, Azure Data Studio, and more.
-- 🎓 **Education:** 3rd year Computer Engineering student.
-- 🎯 **Goals:** Work on open-source projects, enhance my cloud computing skills, and explore AI and data science deeper.
----
+On my GitHub, you can find projects related to machine learning pipelines, data preprocessing, model training, and experimental analysis, as well as supporting work in software and systems that complement my ML background.
 
-## My Projects
+🔍 Research & Technical Interests
 
-Here are some highlights of what I've been working on:
+Machine Learning & Data-Driven Modeling
 
-### 🛠 Microprocessor Simulations
-- **8085 Assembly Programs:** Experiments and applications using GNUSim8085.
+Recommender Systems
 
-### 📊 Database Workflows
-- **Azure Data Studio Experiments:** Projects focused on data management and SQL-based solutions.
+Representation Learning & Feature Engineering
 
-### 🤖 AI & Data Science
-- **Machine Learning Experiments:** Beginner projects on predictive modeling with AI.
-- **Data Analysis:** Exploring insights using tools like Pandas and Matplotlib.
+Model Evaluation & Experimental Analysis
 
+Structured and Explainable ML (emerging interest)
+
+🧠 What I’m Currently Working On
+
+Developing machine learning models on real-world datasets
+
+Experimenting with neural architectures and feature fusion approaches
+
+Improving evaluation pipelines and understanding model behavior
+
+Strengthening my background in AI-oriented research workflows
+
+🛠 Tools & Technologies
+
+Languages & Libraries: Python, NumPy, Pandas, scikit-learn, PyTorch
+
+Data & Experimentation: Jupyter, Matplotlib, Seaborn
+
+Supporting Tools: Git/GitHub, SQL-based data tools, cloud platforms (introductory)
+
+📂 Selected Project Areas
+
+Machine Learning Projects:
+Model training, evaluation, and experimentation on structured datasets
+
+Recommender Systems:
+User–item modeling and preference learning using implicit feedback
+
+Data Analysis & Preprocessing:
+Feature engineering, exploratory analysis, and pipeline construction
+
+🎯 Goals
+
+Contribute to research-oriented ML projects
+
+Gain deeper experience in structured and explainable machine learning
+
+Collaborate in international research environments
+
+Prepare for graduate-level research in machine learning and AI
